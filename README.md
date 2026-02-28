@@ -1,6 +1,6 @@
 # Sentiment Analysis Using Text Mining -- Movie Reviews
 **Course:** BDA 622 -- Marketing Analytics | Mercer University | Spring 2024
-**Authors:** Sahil Patel | Drashti Khatra
+**Authors:** Sahil Patel 
 
 ---
 
